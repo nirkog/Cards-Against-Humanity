@@ -1,0 +1,19 @@
+{
+  "name": "cards_against_humanity",
+  "version": "1.0.0",
+  "description": "Cards Against Humanity in hebrew!",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nirkog/Cards-Against-Humanity.git"
+  },
+  "author": "Nir Kogman and Elad Naeh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nirkog/Cards-Against-Humanity/issues"
+  },
+  "homepage": "https://github.com/nirkog/Cards-Against-Humanity#readme"
+}
